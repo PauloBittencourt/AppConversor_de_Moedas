@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesse aplicativo é possivel Converter as moedas: Real, Dolar e Euro. 
+Nesse aplicativo é possível Converter as moedas: Real, Dólar e Euro. 
 
 Podendo assim verificar em tempo real o valor de cotação das três moedas. 
 
@@ -15,7 +15,7 @@ Feito totalmente no Framework Flutter com base na linguagem Dart.
 - [Android Studio](https://developer.android.com/studio)
 - [Flutter](https://flutter.dev/docs/get-started/install)
 
-## Como inciar a aplicação
+## Como iniciar a aplicação
 
 Para abrir o Emulador Android:
 
@@ -28,9 +28,9 @@ Para abrir o Emulador Android:
 7) Agora na aba "Actions" clique no simbolo de Play, assim irá rodar o emulador Android
 8) Feche a janela "Android Virtual Devices Manager"
 
-Carregar o codigo Flutter no Android Studio
+Carregar o código Flutter no Android Studio
 
 01) Com Android Studio Aberto clique em "Open an Existing Project"
-2) Selecione o diretorio da aplicação
+2) Selecione o diretório da aplicação
 3) Na parte inferior esquerdo clique em Terminal
 4) Digite : Flutter Run
